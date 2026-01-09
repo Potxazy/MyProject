@@ -1,2 +1,2 @@
 # MyProject
-Holder project
+MyProject
